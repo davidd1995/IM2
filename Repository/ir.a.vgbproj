@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ProjectFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>18:31:11.6584565+01:00</Time>
+			<Version>5</Version>
+			<Type>RFRProgress</Type>
+			<Function>
+				<Type>Analysis</Type>
+				<ProjectAttribute Name="ir" Type="FLOAT" />
+			</Function>
+			<ID>91b0e465-72ba-4690-912f-cc979caa4c12</ID>
+		</Header>
+		<Project_Data>
+			<Files>
+				<Name />
+				<Content />
+			</Files>
+		</Project_Data>
+		<UI_State />
+		<Attributes>
+			<Items xsi:type="BoolAttribute" Name="Mirror Left Right" Value="false" />
+		</Attributes>
+	</ProjectFile>
+</GestureBuilderFile>

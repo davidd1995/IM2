@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2018-05-03</Date>
+			<Time>16:38:55.3294929+01:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>30effb54-ff32-4ca2-bd3a-38a0dfb4ad5f</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>inicio.vgbproj</File>
+					</Items>
+					<Items>
+						<File>inicio.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ir.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ir.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>met.vgbproj</File>
+					</Items>
+					<Items>
+						<File>met.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>music.vgbproj</File>
+					</Items>
+					<Items>
+						<File>music.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

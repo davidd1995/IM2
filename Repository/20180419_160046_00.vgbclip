@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>17:19:14.7760463+01:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20180419_160046_00.xef</Clip>
+			<StartFrame>7463</StartFrame>
+			<EndFrame>7577</EndFrame>
+			<ID>265dfa2b-304a-4d1e-b690-c6817bf4c7fb</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>7576</CurrentFrameStart>
+			<CurrentFrameEnd>7577</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="7472">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7473">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7474">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7475">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7476">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7477">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7478">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7479">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7480">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7481">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7482">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7483">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7484">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7485">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7547">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7548">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7549">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7550">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7551">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7552">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7553">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7554">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7555">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+			<Items Frame="7556">
+				<Items xsi:type="BoolAttribute" Name="mov3" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

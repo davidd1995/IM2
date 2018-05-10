@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>18:34:13.0545665+01:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>4f91a7a4-246b-45b7-99dc-8d93d91efe92</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>projeto/inicio.vgbproj</File>
+					</Items>
+					<Items>
+						<File>projeto/inicio.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

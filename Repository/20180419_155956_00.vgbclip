@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>18:22:56.3828008+01:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20180419_155956_00.xef</Clip>
+			<StartFrame>5954</StartFrame>
+			<EndFrame>6304</EndFrame>
+			<ID>92f8a784-ed53-42ab-9227-2d42b9eb08b6</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>6014</CurrentFrameStart>
+			<CurrentFrameEnd>6015</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="avancar" Type="FLOAT" />
+					<Start>6003</Start>
+					<End>6020</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="avancar" Type="FLOAT" />
+					<Start>6082</Start>
+					<End>6101</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="avancar" Type="FLOAT" />
+					<Start>6162</Start>
+					<End>6193</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="avancar" Type="FLOAT" />
+					<Start>6246</Start>
+					<End>6264</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="6003">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6019">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6082">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6100">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6162">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6192">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6246">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="6263">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="6003">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6004">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6005">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6006">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6007">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6008">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6009">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6010">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6011">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6012">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6013">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6014">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6015">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6016">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6017">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6018">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6019">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6082">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6083">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6084">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6085">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6086">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6087">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6088">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6089">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6090">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6091">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6092">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6093">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6094">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6095">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6096">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6097">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6098">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6099">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6100">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6162">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6163">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6164">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6165">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6166">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6167">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6168">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6169">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6170">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6171">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6172">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6173">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6174">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6175">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6176">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6177">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6178">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6179">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6180">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6181">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6182">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6183">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6184">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6185">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6186">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6187">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6188">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6189">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6190">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6191">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6192">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6246">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6247">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6248">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6249">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6250">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6251">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6252">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6253">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6254">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6255">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6256">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6257">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6258">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6259">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6260">
+				<Items xsi:type="BoolAttribute" Name="mov2" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6261">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6262">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+			<Items Frame="6263">
+				<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

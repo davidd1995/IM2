@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>17:38:40.5354174+01:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20180419_160104_00.xef</Clip>
+			<StartFrame>8005</StartFrame>
+			<EndFrame>8605</EndFrame>
+			<ID>b39cd806-47cd-447d-974d-a405862c81df</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>8355</CurrentFrameStart>
+			<CurrentFrameEnd>8356</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="8036">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8037">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8038">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8039">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8040">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8041">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8042">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8043">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8044">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8045">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8046">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8047">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8048">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8049">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8050">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8051">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8052">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8053">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8054">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8055">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8056">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8057">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8058">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8059">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8060">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8061">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8062">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8063">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8064">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8065">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8066">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8067">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8068">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8069">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8070">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8071">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8072">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8073">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8141">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8142">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8143">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8144">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8145">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8146">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8147">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8148">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8149">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8150">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8151">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8152">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8153">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8154">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8155">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8156">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8157">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8158">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8159">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8160">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8161">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8162">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8163">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8164">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8165">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8166">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8167">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8168">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8169">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8170">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8171">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8172">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8173">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8174">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8175">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8176">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8177">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8178">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8179">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8180">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8181">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8182">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8183">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8184">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8185">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8254">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8255">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8256">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8257">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8258">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8259">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8260">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8261">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8262">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8263">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8264">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8265">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8266">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8267">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8268">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8269">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8270">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8271">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8272">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8273">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8274">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8275">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8276">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8277">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8278">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8279">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8280">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8281">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8282">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8283">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8284">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8285">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8286">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8287">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8288">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8289">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8290">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8291">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8292">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8293">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8294">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8295">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8296">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8297">
+				<Items xsi:type="BoolAttribute" Name="music" Value="true" />
+			</Items>
+			<Items Frame="8348">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8349">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8350">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8351">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8352">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8353">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8354">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8355">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8356">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8357">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8358">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8359">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8360">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8361">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8362">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8363">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8364">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8365">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8366">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8367">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8368">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8369">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8370">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8371">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8372">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8373">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8374">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8375">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8376">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8377">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8378">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8379">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8380">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8381">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8382">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8383">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8384">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8385">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8386">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8387">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8388">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8389">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8390">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8391">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8392">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8393">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8394">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8395">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8396">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8397">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8398">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8399">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8400">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8401">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8402">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8403">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8404">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8405">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8406">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8407">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8408">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8409">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8410">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8411">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8412">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8413">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8414">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8415">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8416">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8417">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8418">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8419">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8420">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8421">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8422">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8468">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8469">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8470">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8471">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8472">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8473">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8474">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8475">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8476">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8477">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8478">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8479">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8480">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8481">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8482">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8483">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8484">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8485">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8486">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8487">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8488">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8489">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8490">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8491">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8492">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8493">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8494">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8495">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8496">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8497">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8498">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8499">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8500">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8501">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8502">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8503">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8504">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8505">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8506">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8507">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8508">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8509">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8510">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8511">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8512">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8513">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8514">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8515">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8516">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8517">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8573">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8574">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8575">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8576">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8577">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8578">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8579">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8580">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8581">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8582">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8583">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8584">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8585">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8586">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8587">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8588">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8589">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8590">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8591">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8592">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8593">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8594">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8595">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8596">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8597">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8598">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8599">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8600">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8601">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8602">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8603">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+			<Items Frame="8604">
+				<Items xsi:type="BoolAttribute" Name="met" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

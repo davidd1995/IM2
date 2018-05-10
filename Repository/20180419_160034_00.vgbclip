@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2018-04-19</Date>
+			<Time>18:43:02.8132907+01:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>20180419_160034_00.xef</Clip>
+			<StartFrame>7101</StartFrame>
+			<EndFrame>7329</EndFrame>
+			<ID>2c5bfe82-d3ba-409c-8e29-a164b349b3fa</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>7143</CurrentFrameStart>
+			<CurrentFrameEnd>7144</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="ir" Type="FLOAT" />
+					<Start>7140</Start>
+					<End>7153</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ir" Type="FLOAT" />
+					<Start>7203</Start>
+					<End>7223</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="ir" Type="FLOAT" />
+					<Start>7277</Start>
+					<End>7294</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="7137">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="7140">
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+				<Items Frame="7152">
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+				<Items Frame="7156">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="1" />
+				</Items>
+				<Items Frame="7203">
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+				<Items Frame="7222">
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+				<Items Frame="7223">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="0.981568456" />
+				</Items>
+				<Items Frame="7277">
+					<Items xsi:type="FloatAttribute" Name="avancar" Value="0.96229136" />
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+				<Items Frame="7293">
+					<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="7140">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7141">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7142">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7143">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7144">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7145">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7146">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7147">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7148">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7149">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7150">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7151">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7152">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7203">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7204">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7205">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7206">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7207">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7208">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7209">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7210">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7211">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7212">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7213">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7214">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7215">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7216">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7217">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7218">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7219">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7220">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7221">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7222">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7277">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7278">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7279">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7280">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7281">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7282">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7283">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7284">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7285">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7286">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7287">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7288">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7289">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7290">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7291">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7292">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+			<Items Frame="7293">
+				<Items xsi:type="FloatAttribute" Name="ir" Value="1" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
